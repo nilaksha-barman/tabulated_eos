@@ -5,4 +5,5 @@
 
 
 # nuclear matter properties:
-## $n_{sat} = 0.15~fm^{-3}$
+## $n_{sat} = 0.15~\rm{fm^{-3}}$
+## $E_{sat} = -16.0~\rm{MeV}$
