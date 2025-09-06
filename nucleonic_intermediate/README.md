@@ -1,8 +1,8 @@
-# This folder contains a hyperonic eos in the CompOSE format
+# This folder contains a nucleonic eos in the CompOSE format
 
 ## grid info: 
 ### T: 0.1 to 100 MeV (60 points)
-### nb: 1e-9 to 0.975 $\rm{fm^{-3}}$ (174 points)
+### nb: 1e-9 to 1.125 $\rm{fm^{-3}}$ (194 points)
 ### yq: 0.01 to 0.60 (60 points)
 
 ## columns of eos.thermo file: 
@@ -16,8 +16,3 @@
 ### $J_{sym} = 32.0~\rm{MeV}$
 ### $L_{sym} = 60.0~\rm{MeV}$
 ### $m^*/m = 0.65$
-
-## hyper-nuclear properties
-### $U^N_{\Lambda} = -30.0~\rm{MeV}$
-### $U^N_{\Sigma} = 30.0~\rm{MeV}$
-### $U^N_{\Xi} = -18~\rm{MeV}$
