@@ -5,9 +5,6 @@
 ### nb: 1e-9 to 0.975 $\rm{fm^{-3}}$ (174 points)
 ### yq: 0.01 to 0.60 (60 points)
 
-## columns of eos.thermo file: 
-## i_T  i_nb  i_yq  p/nb  s/nb  μb/mn−1  μq/mn  μl/mn  f/(nbmn) − 1  e/(nbmn) − 1
-
 
 ## nuclear matter properties:
 ### $n_{sat} = 0.15~\rm{fm^{-3}}$
