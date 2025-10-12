@@ -4,3 +4,4 @@
 hyperonic_intermediate/eos.compo filter=lfs diff=lfs merge=lfs -text
 hyperonic_intermediate/eos.thermo filter=lfs diff=lfs merge=lfs -text
 hyperonic_intermediate/eos.micro filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
