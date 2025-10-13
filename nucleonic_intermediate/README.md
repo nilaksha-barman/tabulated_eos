@@ -1,4 +1,5 @@
-# This folder contains a nucleonic eos in the CompOSE format
+# This folder contains a nucleonic EoS in the CompOSE format
+## EoS name: BCP(NLRMF-N)
 
 # eos.zip file contains the following:
 ## eos.t eos.nb eos.yq eos.thermo eos.compo eos.micro eos.mr eos.pdf
